@@ -2,7 +2,7 @@
 - 👀 I’m interested in backend development and cyber secuirty
 - 🌱 I’m currently learning django developemt 
 - 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me https://twitter.com/ziaalian
+- 📫 How to reach me ziadhalian@gmail.com
 - website : http://ziaalian.com/
 
 <!---
