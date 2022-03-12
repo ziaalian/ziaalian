@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ziaalian
-- 👀 I’m interested in backend development and cyber secuirty
+- 👀 I’m interested in backend development 
 - 🌱 I’m currently learning django developemt 
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me ziadhalian@gmail.com
