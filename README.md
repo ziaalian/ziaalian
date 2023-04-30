@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ziaalian
 - 👀 I’m interested in backend development 
-- 🌱 I’m currently learning django developemt 
+- 🌱 I’m an entry level Software Devloper 
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me ziadhosny.alian@gmail.com
-- website : http://ziaalian.com/
+- website : https://ziaalian.github.io/my-portfolio/
 
 <!---
 ziaalian/ziaalian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
