@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ziaalian
 - 👀 I’m interested in backend development 
 - 🌱 I’m an entry level Software Devloper 
-- 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me ziadhosny.alian@gmail.com
+- 💞️ I’m looking to collaborate on projects
+
 - website : https://ziaalian.github.io/my-portfolio/
 
 <!---
